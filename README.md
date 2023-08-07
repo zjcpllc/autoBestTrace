@@ -1,2 +1,2 @@
 # shell
-wget -qO- https://raw.githubusercontent.com/nyjx/autoBestTrace/main/autoBestTrace.sh | bash
+wget -qO- https://raw.githubusercontent.com/zjcpllc/autoBestTrace/master/autoBestTrace.sh | bash
